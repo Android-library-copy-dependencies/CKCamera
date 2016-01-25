@@ -1,4 +1,4 @@
-# LiteCamera
+# Camera
 Simply take pictures and cut.
 ### Screenshot
 
