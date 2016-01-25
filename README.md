@@ -1,4 +1,4 @@
-# Camera
+# CKCamera
 Simply take pictures and cut.
 ### Screenshot
 
